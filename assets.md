@@ -1,0 +1,1 @@
+earth-logo = '/Users/priyankaraju/repos/my-travel-journal/public/images/Fill 213.png'
